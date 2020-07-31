@@ -50,4 +50,8 @@ public class KeyvaultApplication implements CommandLineRunner {
         return admin;
     }
 
+    @GetMapping("/test")
+    public String get() {
+        return "test alex mancilla";
+    }
 }
