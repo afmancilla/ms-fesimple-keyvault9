@@ -1,8 +1,6 @@
 azure:
   keyvault:
-    client-id: ee2d0d2e-9ee3-4425-8adb-e56a20c92b36
+    client-id: 51aa88c9-f42a-4ccf-ae66-7248314733be
     enabled: true
     tenant-id: 297c2a8c-fe17-4aad-99ee-3f2584444c56
     uri: https://afmakeyvault9.vault.azure.net/
-server:
-  port: 80
