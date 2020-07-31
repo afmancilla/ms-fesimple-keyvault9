@@ -4,3 +4,5 @@ azure:
     enabled: true
     tenant-id: 297c2a8c-fe17-4aad-99ee-3f2584444c56
     uri: https://afmakeyvault9.vault.azure.net/
+server:
+  port: 80
