@@ -1,6 +1,6 @@
 azure:
   keyvault:
-    client-id: 51aa88c9-f42a-4ccf-ae66-7248314733be
+    client-id: ef7c92c5-3d3b-4a68-9367-b6b1e42ad117
     enabled: true
     tenant-id: 297c2a8c-fe17-4aad-99ee-3f2584444c56
     uri: https://afmakeyvault9.vault.azure.net/
